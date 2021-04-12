@@ -16,6 +16,7 @@ public class Prova5AI {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("CIAO a tutti");
     }
     
 }
